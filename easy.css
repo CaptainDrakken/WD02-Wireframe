@@ -13,7 +13,7 @@ body {
 .sidebarA {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    background: linear-gradient(to right,#EAAC21,#EAAC21 60%,#FFE200 60%);
+    background: linear-gradient(to right,#EAAC21,#EAAC21 50%,#FFE200 50%);
     padding: 60px;
 }
 .sidebarB {
