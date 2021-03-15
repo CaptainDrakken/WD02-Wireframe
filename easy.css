@@ -2,32 +2,37 @@
     font-family: Courier, monospace;
     color: #FFFFFF;
     text-align: center;
-    padding: 50px;
 }
 body {
     margin: 0;
 }
 .header {
     background-color: #0093FF;
+    padding: 50px;
 }
 .sidebarA {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    background: linear-gradient(to right,#EAAC21,#FFE200)
+    background: linear-gradient(to right,#EAAC21,#EAAC21 50%,#FFE200 50%);
+    padding: 50px;
 }
 .sidebarB {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    background: linear-gradient(to right,#EAAC21,#FFE200,#EAAC21)
+    background: linear-gradient(to right,#EAAC21,#EAAC21 33%,#FFE200 33%,#FFE200 66%,#EAAC21 66%);
+    padding: 50px;
 }
 .main1 {
     display: grid;
     grid-template-columns: 3fr 1fr;
-    background: linear-gradient(to right,#65BCB5,#0093FF)
+    background: linear-gradient(to right,#65BCB5,#65BCB5 75%,#0093FF 75%);
+    padding: 50px;
 }
 .main2 {
     background-color: #65BCB5;
+    padding: 50px;
 }
 .footer {
     background-color: #0093FF;
+    padding: 10px;
 }
