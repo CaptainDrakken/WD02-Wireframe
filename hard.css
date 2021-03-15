@@ -1,0 +1,44 @@
+* {
+    color: #FFFFFF;
+    font-family: Courier, monospace;
+    text-align: center;
+    box-sizing: border-box;
+}
+.grid-container {
+    display: grid;
+    grid-gap: 10px;
+    background-color: #FFA700;
+}
+.medp {
+    background-color: #3D4BF5;
+}
+.medt {
+    background-color: #7BE7F0;
+}
+.smallp {
+    background-color: #3D4BF5;
+}
+.smallt {
+    background-color: #7BE7F0;
+}
+.smallo {
+    background-color: #EAAC21;
+}
+.img {
+    background-color: #EAAC21;
+}
+.main {
+    background-color: #3D4BF5;
+}
+.quote {
+    background-color: #EAAC21;
+}
+.sidebar {
+    background-color: #7BE7F0;
+}
+.footer {
+    background-color: #E8C4A1;
+}
+.header {
+    background-color: #E8C4A1;
+}
