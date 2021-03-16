@@ -24,33 +24,33 @@ body {
 }
 .footer {
 	padding: 20px 0;
-	background-color: #0093FF;
+	background-color: #744FC6;
 }
 .header {
-	background-color: #0093FF;
+	background-color: #744FC6;
 }
 .quart1 {
-	background-color: #EAAC21;
+	background-color: #ED7E07;
     grid-column: 1/3;
 }
 .quart2 {
-	background-color: #FFE200;
+	background-color: #FF5A5F;
     grid-column: 3/5;
 }
 .quart3 {
-	background-color: #65BCB5;
+	background-color: #4FB0C6;
     grid-column: 1/4;
 }
 .quart4 {
-	background-color: #0093FF;
+	background-color: #744FC6;
     grid-column: 4/5;
 }
 .third1 {
-	background-color: #EAAC21;
+	background-color: #ED7E07;
 }
 .third2 {
-	background-color: #FFE200;
+	background-color: #FF5A5F;
 }
 .main {
-	background-color: #65BCB5;
+	background-color: #4FB0C6;
 }
